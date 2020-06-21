@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/bgm">
+        <file>bgm/beng.wav</file>
+        <file>bgm/bling.wav</file>
+        <file>bgm/jiu.wav</file>
+        <file>bgm/tan.wav</file>
+    </qresource>
+    <qresource prefix="/new/photo">
+        <file>photo/Next.png</file>
+        <file>photo/Playall.png</file>
+        <file>photo/Previous.png</file>
+        <file>photo/Reset.png</file>
+    </qresource>
+</RCC>
